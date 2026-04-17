@@ -1,0 +1,10 @@
+Our company Techflow was founded in 2020.
+We offer three products: FlowAPI, FlowDash, and FlowBot.
+FlowAPI pricing starts at $99 per month.
+FlowDash is a dashboard tool for visualizing API metrics.
+FlowBot is an AI chatbot builder that requires no coding.
+To reset your password go to settings and click forgot password.
+For support contact support@techflow.com or call 1800-123-456.
+Refund policy allows returns within 30 days of purchase.
+Our office is located in Bangalore, India.
+The CEO of Techflow is Harshit Sharma.
